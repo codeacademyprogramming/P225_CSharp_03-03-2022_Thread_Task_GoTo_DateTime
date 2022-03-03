@@ -1,0 +1,10 @@
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\bin\Debug\P225WinFotm.exe.config
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\bin\Debug\P225WinFotm.exe
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\bin\Debug\P225WinFotm.pdb
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\obj\Debug\P225WinFotm.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\obj\Debug\P225WinFotm.Form1.resources
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\obj\Debug\P225WinFotm.Properties.Resources.resources
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\obj\Debug\P225WinFotm.csproj.GenerateResource.cache
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\obj\Debug\P225WinFotm.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\obj\Debug\P225WinFotm.exe
+C:\Users\memme\Desktop\P225\Task\P225WinFotm\obj\Debug\P225WinFotm.pdb

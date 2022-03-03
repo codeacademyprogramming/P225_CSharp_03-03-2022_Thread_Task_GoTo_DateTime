@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\bin\Debug\netcoreapp3.1\P225GotoStatment.exe
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\bin\Debug\netcoreapp3.1\P225GotoStatment.deps.json
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\bin\Debug\netcoreapp3.1\P225GotoStatment.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\bin\Debug\netcoreapp3.1\P225GotoStatment.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\bin\Debug\netcoreapp3.1\P225GotoStatment.dll
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\bin\Debug\netcoreapp3.1\P225GotoStatment.pdb
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.dll
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.pdb
+C:\Users\memme\Desktop\P225\Task\P225GotoStatment\obj\Debug\netcoreapp3.1\P225GotoStatment.genruntimeconfig.cache
